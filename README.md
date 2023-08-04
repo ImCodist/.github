@@ -1,4 +1,5 @@
-![Codist Banner](https://user-images.githubusercontent.com/50346006/208357706-5d3061ef-8f16-4023-8687-a98ad9e6b604.png)
+
+![war](https://github.com/ImCodist/imcodist/assets/50346006/047de480-3f94-4dc4-b9e2-74bce890154f)
 [![wakatime](https://wakatime.com/badge/user/66a17a4d-fd33-4271-9faf-2a533d3d618e.svg?style=flat-square)](https://wakatime.com/@66a17a4d-fd33-4271-9faf-2a533d3d618e)
 
 ## Hello! 👋
