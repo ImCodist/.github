@@ -15,7 +15,7 @@ Current Profile Picture by [@FourTimesCold](https://twitter.com/FourTimesCold) *
 
 <p>
   <a href="https://skillicons.dev" alt="Programming Skills">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp" align="left"/>
+    <img src="https://skillicons.dev/icons?i=py,java" align="left"/>
   </a>
 </p>
 
