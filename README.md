@@ -21,6 +21,6 @@ Current Profile Picture by [@Hzx_Gato](https://twitter.com/Hzx_Gato) *(Twitter)*
 
 <p>
   <a href="https://skillicons.dev" alt="Game Development Skills">
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio, godot" align="right"/>
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot" align="right"/>
   </a>
 </p>
