@@ -9,7 +9,7 @@ I'm **Jacob**, or **codist** as I'm known online. I am a English **programmer** 
 I like to create random projects or games just for the fun of it, even if they *aren't particularly useful.*\
 If you would like to chat with me about anything, I have a [Twitter](https://twitter.com/ImCodist) where we can do so.
 
-Current Profile Picture by [@FourTimesCold](https://twitter.com/FourTimesCold) *(Twitter)*
+Current Profile Picture by [@Hzx_Gato](https://twitter.com/Hzx_Gato) *(Twitter)*
 
 <sub>If you can't find one of my projects here it may be on my [second account](https://github.com/ImCod2st).</sub>
 
