@@ -11,7 +11,7 @@ If you would like to chat with me about anything, I have a [Twitter](https://twi
 
 Current Profile Picture by [@Hzx_Gato](https://twitter.com/Hzx_Gato) *(Twitter)*
 
-<sub>If you can't find one of my projects here it may be on my [second account](https://github.com/ImCod2st).</sub>
+<sub>If you can't find one of my projects here it may be in my [dump org](https://github.com/codists-dump).</sub>
 
 <p>
   <a href="https://skillicons.dev" alt="Programming Skills">
