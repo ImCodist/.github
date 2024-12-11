@@ -1,6 +1,4 @@
-
-![war](https://github.com/ImCodist/imcodist/assets/50346006/047de480-3f94-4dc4-b9e2-74bce890154f)
-[![wakatime](https://wakatime.com/badge/user/66a17a4d-fd33-4271-9faf-2a533d3d618e.svg?style=flat-square)](https://wakatime.com/@66a17a4d-fd33-4271-9faf-2a533d3d618e)
+![githubbanner](https://github.com/user-attachments/assets/3ecc78fc-7f56-432b-b6f2-8197ada82699)
 
 ## Hello! 👋
 
@@ -9,7 +7,7 @@ I'm **Jacob**, or **codist** as I'm known online. I am a English **programmer** 
 I like to create random projects or games just for the fun of it, even if they *aren't particularly useful.*\
 If you would like to chat with me about anything, I have a [Twitter](https://twitter.com/ImCodist) where we can do so.
 
-Current Profile Picture by [@Hzx_Gato](https://twitter.com/Hzx_Gato) *(Twitter)*
+Current Profile Picture by [@licorice45](https://bsky.app/profile/licorice45.bsky.social) *(Bluesky)*
 
 <sub>If you can't find one of my projects here it may be in my [dump org](https://github.com/codists-dump).</sub>
 
